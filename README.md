@@ -6,6 +6,8 @@ layar TV menampilkan nomor yang dipanggil.
 
 Laravel 12 · MySQL/PostgreSQL · Laravel Reverb (WebSocket)
 
+---
+
 ## Cara menjalankan
 
 ```bash
