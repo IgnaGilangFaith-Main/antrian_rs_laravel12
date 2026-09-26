@@ -6,12 +6,6 @@ layar TV menampilkan nomor yang dipanggil.
 
 Laravel 12 · MySQL/PostgreSQL · Laravel Reverb (WebSocket)
 
-## Lisensi
-
-[MIT](LICENSE.md) — bebas dipakai, dimodifikasi, dan dikomersialkan.
-
----
-
 ## Cara menjalankan
 
 ```bash
